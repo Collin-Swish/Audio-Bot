@@ -93,6 +93,4 @@ logging:
 EOF
 )
 
-config
-
 yml= printf(Fyml,)
